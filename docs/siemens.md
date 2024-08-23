@@ -118,15 +118,13 @@ Figure 1. Check for fully installed sequences in DEFAULT > Sequence Region > Cus
 
 ## Operation Instructions
 
-Operation instructions (a.k.a, SOP) can be found here:
-
-https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=85033234
+Operation instructions (a.k.a, SOP) can be found [here](https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=85033234)
 
 
-# Update History
+## Update History
 
 
-## v2.2 (April 19, 2024)
+### v2.2 (April 19, 2024)
 
 
 
@@ -135,7 +133,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * anat-t2w had its B0 Shim set to Standard
 
 
-## v2.1 (June 30, 2023)
+### v2.1 (June 30, 2023)
 
 
 
@@ -148,7 +146,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * anat-t1w had its TI changed from 1100 ms to 1060 ms (this had been incorrectly set in v2.0)
 
 
-## v2.0 (June 20, 2023)
+### v2.0 (June 20, 2023)
 
 
 
@@ -165,7 +163,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * [NXVA30] There are now only 2 repetitions of the EPI field mapping sequences during the fMRI block (previously field mapping was repeated 3 times).
 
 
-## v1.5.2 (April 1, 2023)
+### v1.5.2 (April 1, 2023)
 
 
 
@@ -173,7 +171,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * [NXVA30] The DWI protocol was again modified to have all derived images disabled except for FA Map. We previously tried to disable all derived images (see v1.5). However, a bug in the DWI sequence causes all derived images to be reenabled whenever the protocol is opened, unless at least one derived image is selected.
 
 
-## v1.5.1 (March 16, 2023)
+### v1.5.1 (March 16, 2023)
 
 
 
@@ -184,7 +182,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
     * Anatomy -> Brain
 
 
-## v1.5 (January 25, 2023)
+### v1.5 (January 25, 2023)
 
 
 
@@ -205,7 +203,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
     * Image Scaling -> 3.0
 
 
-## v1.4.1 (October 6, 2022)
+### v1.4.1 (October 6, 2022)
 
 
 
@@ -215,7 +213,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * [NXVA30] Added the "BOLD add in" to the fMRI and DWI scans, pre-populated with default information to enable support for the FIRMM tablet.
 
 
-## v1.4 (August 3, 2022)
+### v1.4 (August 3, 2022)
 
 
 
@@ -225,14 +223,14 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * [NXVA30 and N4VE11] Changed default location of SVS voxel to isocenter and default alignment to transversal.
 
 
-## v1.3 (July 14, 2022)
+### v1.3 (July 14, 2022)
 
 
 
 * Localizer_SVS has been changed to a HASTE-based protocol.
 
 
-## v1.2 (June 28, 2022)
+### v1.2 (June 28, 2022)
 
 
 
@@ -244,14 +242,14 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * QALAS3d_1p3mm_R2 had its FOV unlinked from T2w_SPACE, and is now set manually. tfl_b1map is now set to default its FOV to follow QALAS3d_1p3mm.
 
 
-## v1.1.2 (June 20, 2022)
+### v1.1.2 (June 20, 2022)
 
 
 
 * SpinEchoFieldMap_AP, SpinEchoFieldMap_PA, and rfMRI_REST_PA, corrected to have pure axial orientation for FOV (was previously angled T > C).
 
 
-## v1.1.1 (June 16, 2022)
+### v1.1.1 (June 16, 2022)
 
 
 
@@ -259,7 +257,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * Corrected Localizer_SVS to have “Body part examined” set to “Brain”. This was missed in the previous v1.1 release.
 
 
-## v1.1 (June 13, 2022)
+### v1.1 (June 13, 2022)
 
 
 
@@ -281,7 +279,7 @@ https://hbcdstudy.atlassian.net/wiki/pages/viewpageattachments.action?pageId=850
 * All scans have "Body part examined" set to "Brain".
 
 
-## v1.0 (April 19, 2022)
+### v1.0 (April 19, 2022)
 
 Initial release.
 
