@@ -1,5 +1,7 @@
 # GE v2.2 HBCD Protocols
 
+Please note that GE pulse sequences must be requested from the vendor directly. See protocol files below
+
 ## Download v2.2 Sequences
 [HBCD_GE_PilotProtocol_v1.2_2022.08.15.pdf](v2.2_sequences/ge/HBCD_GE_PilotProtocol_v1.2_2022.08.15.pdf)<br>
 [session.xml](v2.2_sequences/ge/session.xml)<br>
