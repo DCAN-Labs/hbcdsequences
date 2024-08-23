@@ -285,14 +285,9 @@ Initial release.
 
 
 ## Download v2.2 Sequences
-[HBCD_v2.2_32ch.pdf](v2.2_sequences/siemens/HBCD_v2.2_32ch.pdf)
-
-[HBCD_v2.2_64ch.pdf](v2.2_sequences/siemens/HBCD_v2.2_64ch.pdf)
-
-[HBCD_v2.2_32ch.exar1](v2.2_sequences/siemens/HBCD_v2.2_32ch.exar1)
-
-[HBCD_v2.2_64ch.exar1](v2.2_sequences/siemens/HBCD_v2.2_64ch.exar1)
-
-[DiffusionVectors_HBCD_pe1_03142022.dvs](v2.2_sequences/siemens/DiffusionVectors_HBCD_pe1_03142022.dvs)
-
+[HBCD_v2.2_32ch.pdf](v2.2_sequences/siemens/HBCD_v2.2_32ch.pdf)<br>
+[HBCD_v2.2_64ch.pdf](v2.2_sequences/siemens/HBCD_v2.2_64ch.pdf)<br>
+[HBCD_v2.2_32ch.exar1](v2.2_sequences/siemens/HBCD_v2.2_32ch.exar1)<br>
+[HBCD_v2.2_64ch.exar1](v2.2_sequences/siemens/HBCD_v2.2_64ch.exar1)<br>
+[DiffusionVectors_HBCD_pe1_03142022.dvs](v2.2_sequences/siemens/DiffusionVectors_HBCD_pe1_03142022.dvs)<br>
 [DiffusionVectors_HBCD_pe2_03142022.dvs](v2.2_sequences/siemens/DiffusionVectors_HBCD_pe2_03142022.dvs)
