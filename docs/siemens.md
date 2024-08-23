@@ -116,12 +116,7 @@ Figure 1. Check for fully installed sequences in DEFAULT > Sequence Region > Cus
 
 ![siemens_fig1](images/siemens_fig1.png)
 
-# 
-
-
-
-![alt_text](images/image1.png "image_tooltip")
-Operation Instructions
+## Operation Instructions
 
 Operation instructions (a.k.a, SOP) can be found here:
 
