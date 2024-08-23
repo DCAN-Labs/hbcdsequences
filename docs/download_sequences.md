@@ -1,0 +1,1 @@
+[Download PDF](pdfs/HBCD_v2.2_32ch.pdf)
