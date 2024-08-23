@@ -114,6 +114,7 @@ The PDF files are for your review, but please do not attempt to recreate the pro
 
 Figure 1. Check for fully installed sequences in DEFAULT > Sequence Region > Customer Sequences > Default.
 
+![siemens_fig1](images/siemens_fig1.png)
 
 # 
 
