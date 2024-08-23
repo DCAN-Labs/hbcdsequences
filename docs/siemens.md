@@ -284,4 +284,6 @@ Operation instructions (a.k.a, SOP) can be found [here](https://hbcdstudy.atlass
 Initial release.
 
 
+## Download v2.2 Sequences
+[HBCD_v2.2_32ch_Siemens](pdfs/HBCD_v2.2_32ch.pdf)
 
