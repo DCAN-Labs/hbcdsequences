@@ -1,9 +1,6 @@
-site_name: HBCD Sequences
+site_name: HBCD Study MRI Protocols
 theme: readthedocs
 plugins:
   - search
 docs_dir: docs
-nav:
-  - Siemens Protocols: siemens.md
-  - GE Protocols: ge.md
 
